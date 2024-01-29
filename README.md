@@ -1,4 +1,4 @@
-# Fishdom
+# Fishdom : A minigame inspired in Blob.io
 
 **Author**: Ma. Jazmine Rosello and Arawela Delmo
 
@@ -17,9 +17,9 @@ consume to get bigger. Enemies move at random directions and die when the bigger
 However, when the player tries to eat a bigger enemy, the player dies. Time is also recorded as long as the guardian is still alive.
 
 
-Different power-ups can be collected by the guardian:
-  Item 			                Effect
-Speedboost	    doubles the speed of for 5 seconds
-Shield 	 		    provides immunity for 5 seconds
+Different power-ups can be collected by the guardian:    
+  
+1. Speedboost ---- doubles the speed of for 5 seconds  
+2. Shield 	  ---- provides immunity for 5 seconds
 
-You can play this game with your friend. Beat his/her time being alive and the number of food eaten. Enjoy!
+**You can play this game with your friend. Beat his/her time as his/her guardian is alive in Fishdom and the number of food his/her guardian eaten. Enjoy!**
